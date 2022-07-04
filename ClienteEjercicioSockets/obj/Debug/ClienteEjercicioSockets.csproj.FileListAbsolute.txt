@@ -1,0 +1,11 @@
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ClienteEjercicioSockets\bin\Debug\ClienteEjercicioSockets.exe.config
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ClienteEjercicioSockets\bin\Debug\ClienteEjercicioSockets.exe
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ClienteEjercicioSockets\bin\Debug\ClienteEjercicioSockets.pdb
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ClienteEjercicioSockets\bin\Debug\ServerSocketUtils.dll
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ClienteEjercicioSockets\bin\Debug\ServerSocketUtils.pdb
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ClienteEjercicioSockets\obj\Debug\ClienteEjercicioSockets.csproj.AssemblyReference.cache
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ClienteEjercicioSockets\obj\Debug\ClienteEjercicioSockets.csproj.SuggestedBindingRedirects.cache
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ClienteEjercicioSockets\obj\Debug\ClienteEjercicioSockets.csproj.CoreCompileInputs.cache
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ClienteEjercicioSockets\obj\Debug\ClienteEjercicioSockets.csproj.CopyComplete
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ClienteEjercicioSockets\obj\Debug\ClienteEjercicioSockets.exe
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ClienteEjercicioSockets\obj\Debug\ClienteEjercicioSockets.pdb

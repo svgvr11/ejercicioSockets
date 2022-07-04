@@ -1,0 +1,6 @@
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ServerSocketUtils\bin\Debug\ServerSocketUtils.dll
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ServerSocketUtils\bin\Debug\ServerSocketUtils.pdb
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ServerSocketUtils\obj\Debug\ServerSocketUtils.csproj.AssemblyReference.cache
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ServerSocketUtils\obj\Debug\ServerSocketUtils.csproj.CoreCompileInputs.cache
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ServerSocketUtils\obj\Debug\ServerSocketUtils.dll
+C:\Users\vmunozfe\Documents\Workspace 2\Inacap\Programacion Avanzada de Aplicaciones\Workspace\EjercicioSockets\ServerSocketUtils\obj\Debug\ServerSocketUtils.pdb
